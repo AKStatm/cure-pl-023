@@ -1,7 +1,7 @@
 {
   "leadId": "PL-023",
   "businessName": "CURE ALL DENTISTRY",
-  "nicheId": "all niches",
+  "nicheId": "dentist",
   "category": "Dental clinic",
   "phone": "03490629964",
   "whatsapp": "923490629964",
@@ -17,6 +17,6 @@
   "yearsExperience": 5,
   "workingHours": "Open today · Reply on WhatsApp fast",
   "taglineOverride": "",
-  "about": "CURE ALL DENTISTRY provides trusted all niches services in Lahore.",
+  "about": "CURE ALL DENTISTRY provides trusted dentist services in Lahore.",
   "urduSupport": true
 }
